@@ -106,8 +106,8 @@ const Hero: React.FC = () => {
                </a>
 
                <div className="flex gap-4">
-                  <a href="#" className="p-4 rounded-full border border-white/10 text-gray-400 hover:text-white hover:border-neon-purple hover:bg-neon-purple/10 transition-all duration-300 hover:-translate-y-1"><Github size={20}/></a>
-                  <a href="#" className="p-4 rounded-full border border-white/10 text-gray-400 hover:text-white hover:border-neon-purple hover:bg-neon-purple/10 transition-all duration-300 hover:-translate-y-1"><Linkedin size={20}/></a>
+                  <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-4 rounded-full border border-white/10 text-gray-400 hover:text-white hover:border-neon-purple hover:bg-neon-purple/10 transition-all duration-300 hover:-translate-y-1"><Github size={20}/></a>
+                  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-4 rounded-full border border-white/10 text-gray-400 hover:text-white hover:border-neon-purple hover:bg-neon-purple/10 transition-all duration-300 hover:-translate-y-1"><Linkedin size={20}/></a>
                </div>
             </div>
           </div>

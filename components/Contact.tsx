@@ -25,11 +25,11 @@ const Contact: React.FC = () => {
                     <Mail className="mb-4 text-white group-hover:text-neon-purple transition-colors" />
                     <span className="text-white font-bold">Email</span>
                 </a>
-                <a href="https://linkedin.com" className="flex flex-col items-center justify-center p-6 rounded-2xl bg-white/5 hover:bg-white/10 transition-all border border-white/5 group">
+                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center justify-center p-6 rounded-2xl bg-white/5 hover:bg-white/10 transition-all border border-white/5 group">
                     <Linkedin className="mb-4 text-white group-hover:text-neon-purple transition-colors" />
                     <span className="text-white font-bold">LinkedIn</span>
                 </a>
-                <a href="https://github.com" className="flex flex-col items-center justify-center p-6 rounded-2xl bg-white/5 hover:bg-white/10 transition-all border border-white/5 group">
+                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center justify-center p-6 rounded-2xl bg-white/5 hover:bg-white/10 transition-all border border-white/5 group">
                     <Github className="mb-4 text-white group-hover:text-neon-purple transition-colors" />
                     <span className="text-white font-bold">GitHub</span>
                 </a>
