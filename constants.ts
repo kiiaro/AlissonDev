@@ -24,6 +24,10 @@ export const CERTIFICATIONS: Certification[] = [
   { name: "Scrum Foundation Learner", org: "Certiprof", year: "2025" },
   { name: "Startup Day", org: "Sebrae", year: "2025" },
   { name: "HospitalMed", org: "HospitalMed", year: "10/25" },
+  { name: "Introdução à Programação Orientada a Objetos (POO)", org: "Fundação Bradesco", year: "2025" },
+  { name: "Excel na Prática", org: "Fundação Bradesco", year: "2025" },
+  { name: "Gerenciamento de Ameaças Cibernéticas", org: "Cisco", year: "2025" },
+  { name: "Introdução à Cibersegurança", org: "Cisco", year: "2025" },
   { name: "Network Defense", org: "Cisco", year: "2024" },
 ];
 
